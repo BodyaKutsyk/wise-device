@@ -1,4 +1,4 @@
-**React products catalog**
+# React products catalog
 
 This project is a simple and user-friendly
 product catalog built using React and TypeScript.
