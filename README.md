@@ -14,3 +14,10 @@ It allows users to browse products in an organized way with an easy-to-use inter
 - TypeScript
 - SCSS
 - HTML
+
+- [preview link](https://bodyakutsyk.github.io/product-catalog/)
+- [website layout](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
+
+
+
+
